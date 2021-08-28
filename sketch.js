@@ -73,7 +73,7 @@ function draw() {
     {
        jungle.x=400
     }
- 
+ //23
     if(keyDown("space")&& kangaroo.y>270) {
       jumpSound.play();
       kangaroo.velocityY = -16;
